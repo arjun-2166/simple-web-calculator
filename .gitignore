@@ -1,8 +1,30 @@
+# NetBeans project files
 /nbproject/private/
+/nbproject/Makefile-*
+/nbproject/configurations.xml
+
+# Build output
 /build/
 /dist/
 *.class
 
-# Mac OS System
-.DS_Store*
+# IDE-specific
+*.log
+*.iml
+*.ipr
+*.iws
+
+# OS-specific
+.DS_Store
 ._*
+Thumbs.db
+
+# Backup files
+*.bak
+*.tmp
+*~
+
+# Java-specific
+*.jar
+*.war
+*.ear
