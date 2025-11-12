@@ -14,13 +14,6 @@ This project is developed as part of the Advance Java Technology course. It demo
 
 This project was **Developed entirely in NetBeans IDE for streamlined GUI design and debugging.**.
 
-If you use the executable "SimpleJavaCalculator.jar" file and that doesn't work, you can type this in your terminal:
-
-```shell
-java -jar /your_calculator_directory/SimpleJavaCalculator.jar`
-```
-
-
 
 ## 💡 Authors
 
