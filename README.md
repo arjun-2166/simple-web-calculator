@@ -2,9 +2,6 @@
 
 # Simple Java Calculator
 
-![Logo Simple Java Calculator](logo.png)
-
----
 
 This project is developed as part of the Advance Java Technology course. It demonstrates a desktop calculator application using Java Swing for GUI and JDBC for database connectivity. The project aligns with JDBC, focusing on CRUD operations and event-driven GUI design..
 
